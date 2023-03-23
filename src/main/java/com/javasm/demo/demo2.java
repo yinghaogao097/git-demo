@@ -8,4 +8,5 @@ package com.javasm.demo;
  * @Description：
  */
 public class demo2 {
+
 }
